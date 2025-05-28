@@ -7,16 +7,6 @@ The player controls a red ship (`O`) at the bottom of the screen and must avoid 
 
 ---
 
-### 🧠 Design Patterns Used
-
-| Pattern                 | Usage                                  |
-|------------------------|-----------------------------------------|
-| Singleton              | `Player` class                         |
-| Strategy               | Movement classes (`MoveLeftPlayer`, `MoveDown`, etc.) |
-| Chain of Responsibility | InputHandler classes                   |
-
----
-
 ### 🧠 Design Patterns & Principles
 
 | File               | Applied Principles / Patterns                        |
